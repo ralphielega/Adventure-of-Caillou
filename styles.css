@@ -1,0 +1,43 @@
+.ImageOne{
+    height:300px;
+    width:300px;
+    
+}
+.title{
+    font-size:50px;
+    background-color:blue;
+    display:flex;
+    justify-content:center;
+}
+
+.leg{
+    display:none;
+}
+.kidney{
+       display:none;
+}
+.stone{
+    height:200px;
+    width:200px;
+    display:none;
+}
+.potato{
+        display:none;
+}
+.mice{
+    display:none;
+}
+.chicken{
+    display:none;
+}
+.rat{
+    display:none;
+}
+.fun{
+    height:500px;
+    width:500px;
+    display:none;
+}
+.toe{
+    display:none;
+}
